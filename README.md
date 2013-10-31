@@ -5,9 +5,9 @@ A skeleton was given to us with a massive seed file with Users and their KarmaPo
 
 This was completed during Phase3. 
 
-**Created:** Monday, October 14th 2013 (Week 8 of Dev Bootcamp)
+**Created:**        Monday, October 14th 2013 (Week 8 of Dev Bootcamp)
 
-**Contributers/Pairing Partners:** Ryan Menzer, Kevin Berry
+**Contributers/Pairing Partners:**        Ryan Menzer, Kevin Berry
 
 ##### Purpose: 
 This app was to show that database structure and load times are important. It allowed us to see the value of indexing specific columns and adding table columns through migrations in order to improve the speed and load time of the database query. It also taught us that it is important to only request the data that is needed with specific ActiveRecord commands (pluck, select, etc.) instead of making requests for all the data and then parsing out what you need afterwards with Ruby. We were instructed not to use caching (redis, memecaches, fragcaching).
