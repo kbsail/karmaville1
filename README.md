@@ -1,5 +1,5 @@
-KarmaVille
-===============
+KarmaVille    **Hello**
+==========
 
 A skeleton was given to us with a massive seed file with Users and their KarmaPoints. Users had many karma points, with over 1 million KarmaPoints in the database and each with a user_id. Before each view was rendered, EACH USER'S KarmaPoint total was calculated, making the load time long. Our job was to make the load time reduce by 80% by working ONLY with the database and the models (couldn't change view or controllers). We also had to ensure all of our RSpec tests continued to pass without modifications.
 
